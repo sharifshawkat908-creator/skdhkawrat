@@ -18,16 +18,16 @@ export const RESPONSIBLE_GAMING = {
 };
 
 export const NAV_LINKS = [
-  { label: 'হোম', href: '#hero' },
-  { label: 'গেম', href: '#games' },
-  { label: 'স্পোর্টস', href: '#sports' },
-  { label: 'প্রমোশন', href: '#promotion-highlights' },
-  { label: 'ভিআইপি', href: '#vip' },
-  { label: 'সহায়তা', href: '#support' },
+  { label: 'Home', href: '#hero' },
+  { label: 'Rewards', href: '#rewards-showcase' },
+  { label: 'How It Works', href: '#trust-information' },
+  { label: 'Terms', href: '#trust-information' },
+  { label: 'FAQ', href: '#faq' },
+  { label: 'Support', href: '#trust-information' },
 ];
 
 export const AUTH_LINKS = [
-  { label: 'এখন জয়েন করুন', href: 'https://skbet999.com/af/8VF9P/FXEKPRH', variant: 'primary', external: true },
+  { label: 'Join Now', href: 'https://skbet999.com/af/8VF9P/FXEKPRH', variant: 'primary', external: true },
 ];
 
 export const config = {
